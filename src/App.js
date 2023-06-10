@@ -11,7 +11,7 @@ function App() {
           imagen='retrato1'
           cargo='Programador frontend'
           empresa='Mercado.org'
-          testimonio='Es <b>rápido, asincrónico</b>, proporciona un único, generalizado lenguaje de programación y tipo de dato!' />
+          testimonio='Es rápido, asincrónico, proporciona un único, generalizado lenguaje de programación y tipo de dato!' />
         <Testimonio
           nombre='Julian Suarez'
           pais='Uruguay'
@@ -19,6 +19,14 @@ function App() {
           cargo='Programador frontend'
           empresa='Mercado.org'
           testimonio='me facilita poder escribir codigo en react, lo encuentro comodo! espero poder continuar programando en este lenguaje tan potente'/>
+        <Testimonio
+          nombre='Wei li'
+          pais='Singapur'
+          imagen='retrato3'
+          cargo='Programador backend'
+          empresa='Commerce.org'
+          testimonio='me facilita poder escribir codigo en react, lo encuentro comodo! espero poder continuar programando en este lenguaje tan potente'/>
+      
       </div>
     </div>
   );
